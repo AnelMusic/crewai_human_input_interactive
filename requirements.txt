@@ -1,0 +1,27 @@
+# Core dependencies with compatible versions
+langchain==0.3.18
+langchain-community>=0.3.1,<0.4.0
+langchain-core>=0.3.34  
+langchain-openai==0.2.14
+embedchain==0.1.126
+crewai==0.102.0
+crewai-tools==0.36.0
+
+# Additional required packages
+openai==1.62.0
+pydantic>=2.10.6
+python-dotenv==1.0.1
+tiktoken==0.7.0
+
+# Development tools
+jupyter_client==8.6.3
+jupyter_core==5.7.2
+ipykernel==6.29.5
+ipython==8.32.0
+
+chainlit
+
+# Opentelemetry packages
+opentelemetry-api==1.29.0
+opentelemetry-exporter-otlp==1.29.0
+opentelemetry-sdk==1.29.0
