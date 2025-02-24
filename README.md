@@ -5,6 +5,9 @@
 
 This script creates a conversational AI assistant that collects personal information through natural dialogue. Using CrewAI's agent framework and Chainlit's user interface, it demonstrates how to build interactive AI systems that gather specific information while maintaining a natural conversation flow.
 
+![image](https://github.com/user-attachments/assets/4bcd5cf7-097d-4818-85d2-057ca828dae3)
+
+
 ## How It Works
 
 When a user sends a message, two specialized AI agents work together:
